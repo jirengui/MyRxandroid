@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRxandroid</string>
+    <string name="login_user">请输入用户名</string>
+    <string name="login_pwd">请输入密码</string>
+    <string name="login_login">登录</string>
+    <string name="login_register">注册</string>
+    <string name="dialog_data">加载中···</string>
+    <string name="register_nike_name">请输入昵称</string>
+    <string name="register_phone">请输入手机号</string>
+    <string name="register_email">请输入邮箱</string>
+    <string name="register_autograph">请输入个性签名</string>
+    <string name="register_remarks">请输入备注</string>
+    <string name="photo">拍照</string>
+</resources>
